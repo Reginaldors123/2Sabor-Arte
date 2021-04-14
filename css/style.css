@@ -1,8 +1,16 @@
 body{
-    font: arial,sans-serif;
+    font: 20px arial,sans-serif;
     
 }
 .navbar{
-    background-color: royalblue
-
+    background-color: rgba(225, 214, 65, 0.979)
+}
+.Bolos-decorados{
+    background-color:rgba(215, 241, 154, 0.918);
+    color: white;
+}
+.margin{
+    
+    padding-bottom: 50px;
+    padding-top: 10px;
 }
