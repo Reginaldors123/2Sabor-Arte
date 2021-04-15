@@ -1,13 +1,28 @@
+
 body{
-    font: 20px arial,sans-serif;
-    
+    font: 20px arial,sans-serif;        
 }
 .navbar{
-    background-color: rgba(225, 214, 65, 0.979)
+    background-color: rgba(93, 136, 132, 0.979)
 }
 .Bolos-decorados{
-    background-color:rgba(215, 241, 154, 0.918);
-    color: white;
+    background-color:yellow;
+    color: rgb(182, 86, 42);
+}
+.Cupcakes{
+    background-color:rgba(15, 145, 11, 0.918);
+    color: rgb(70, 20, 20);
+}
+.Docinhos{
+    background-color:rgba(40, 79, 207, 0.918);
+    color: rgba(42, 194, 28, 0.856);
+}.Bombons{
+    background-color:rgba(241, 154, 215, 0.918);
+    color: rgb(124, 126, 35);
+}
+.Salgadinhos{
+    background-color:rgba(241, 154, 154, 0.918);
+    color: rgba(19, 185, 158, 0.986);
 }
 .margin{
     
