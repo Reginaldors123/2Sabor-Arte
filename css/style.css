@@ -1,6 +1,8 @@
 
 body{
-    font: 20px arial,sans-serif;        
+    font: 20px arial,sans-serif;  
+    margin-left: 20px;      
+    margin-right: 20px;
 }
 .navbar{
     background-color: rgba(93, 136, 132, 0.979)
